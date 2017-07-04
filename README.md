@@ -1,3 +1,5 @@
-# demoSelenium3
-Quick demo about Selenium 3
-Test:
+# Demo UI Testing using Selenium
+Selenium 3
+Java
+TestNG
+
